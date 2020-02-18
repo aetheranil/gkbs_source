@@ -22,10 +22,10 @@ function GetGlobalConnectionOptions()
 {
     return
         array(
-          'server' => 'localhost',
+          'server' => '',
           'port' => '3306',
-          'username' => 'root',
-          'password' => 'yuna2UtR',
+          'username' => '',
+          'password' => '',
           'database' => 'cropbase_5_0_3',
           'client_encoding' => 'utf8'
         );
