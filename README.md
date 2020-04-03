@@ -1,8 +1,4 @@
-# gkb_source
-The main GKBS SQL source and UI for the new DB titled cropbase_v5. The database is currently being updated by the interns, therefore tables and fields might change during this time. The final UI will be uploaded once every data migration and upload has been completed.
-
-
-# KST_gkbs_source
+# KST_GKB_source
 
 <a href="https://zenodo.org/badge/latestdoi/252083676"><img src="https://zenodo.org/badge/252083676.svg" alt="DOI"></a>
 
